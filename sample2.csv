@@ -1,0 +1,7 @@
+Name,Property,Type,Description
+Product,product_id,string,Unique identifier representing a specific product for a given latitude & longitude. For example uberX in San Francisco will have a different product_id than uberX in Los Angeles.
+Product,description,string,Description of product.
+Product,display_name,string,Display name of product.
+Product,capacity,string,Capacity of product. For example 4 people.
+Product,image,string,Image URL representing the product.
+New-Product,image,string,Image URL representing the product.
